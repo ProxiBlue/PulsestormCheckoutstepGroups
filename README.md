@@ -18,5 +18,5 @@ This does make it less generic to extend, so if you do use this, you must change
 Known issue:
 ============
 
-Your extra step cannot be the first step, else the accordian functionality in checkout goes a bit wonky. This was not an issue for me, so I dod not fix it (time is my enemy)
+Your extra step cannot be the first step, else the accordian functionality in checkout goes a bit wonky. This was not an issue for me, so I did not fix it (time is my enemy)
 
