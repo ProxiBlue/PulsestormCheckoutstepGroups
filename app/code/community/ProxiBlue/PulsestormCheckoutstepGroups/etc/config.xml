@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <ProxiBlue_PulsestormCheckoutstepGroups>
+            <version>1.0.0</version>
+            <depends>
+                <!-- change this to whatever namespace was generated for you when you purchased the checkout step code -->
+                <Lucasvanstaden_Checkoutstep />
+            </depends>
+        </ProxiBlue_PulsestormCheckoutstepGroups>
+    </modules>
+    <global>
+        <helpers>
+            <proxiblue_pulsestormcheckoutstepgroups>
+                <class>ProxiBlue_PulsestormCheckoutstepGroups_Helper</class>
+            </proxiblue_pulsestormcheckoutstepgroups>
+            <pulsestorm_checkoutstep>
+                <rewrite>
+                    <data>ProxiBlue_PulsestormCheckoutstepGroups_Helper_Data</data>
+                </rewrite>
+            </pulsestorm_checkoutstep>
+        </helpers>
+    </global>
+</config>
