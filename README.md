@@ -4,7 +4,7 @@ This extension enhances the already great extension by Alan Storm: [http://store
 
 It ads an option to eliminate the extra checkout step by customer group. Nothing more.
 
-[https://www.proxiblue.com.au/media/wysiwyg/Selection_415_1.png|alt=groups]
+![group](https://www.proxiblue.com.au/media/wysiwyg/Selection_415_1.png)
 
 Some notes:
 
