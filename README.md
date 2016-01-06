@@ -12,7 +12,7 @@ When purchasing the extension from pulsestorm.net, they generate a custom versio
 
 This does make it less generic to extend, so if you do use this, you must change the values of some files:
 
-- In config.xml you must change the depends to whatever your copy of the extension is called. This is <Lucasvanstaden_Checkoutstep /> for me.
+- In config.xml you must change the depends to whatever your copy of the extension is called. This is `<Lucasvanstaden_Checkoutstep />` for me.
 - In Helper/Data.php you must changed the extended class name to that of your copy of the extension.
 
 Known issue:
